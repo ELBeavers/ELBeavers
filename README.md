@@ -39,7 +39,27 @@
 
 <p>&nbsp;</p>
 
-<p align="center">My website is <a href="https://carryingstones.com">Carrying Stones</a></p>
+```yaml
+name: Eric Beavers
+location: Northwest Georgia
+current job: designer-developer
+company: Webinology
+
+fields of interest
+  [
+    PHP Development
+    Web Development
+    Linux Server Administration
+    DevOps
+    ChatOps
+  ]
+
+hobbies: ["Photography", "Writing"]
+
+```
+
+<p align="center">Visit my website at <a href="https://carryingstones.com">Carrying Stones</a>.</p>
+
 
 <!--
 **ELBeavers/ELBeavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
