@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/x9DVHBmO750Ji/giphy.gif"></p>
 
-<p align="center">These are some of the shiny things that have my interest right now!<br /><em>…in no particular order…</em></p>
+<p align="center">These shiny things have my interest right now!<br /><em>…in no particular order…</em></p>
 
 <p>&nbsp;</p>
 
