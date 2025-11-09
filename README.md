@@ -57,7 +57,7 @@ fields of interest
     Web Development
   ]
 
-hobbies: ["Photography", "Writing", "Light Gaming", Reading]
+hobbies: ["Photography", "Writing", "Light Gaming", "Reading"]
 
 ```
 
