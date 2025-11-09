@@ -48,14 +48,16 @@ company: Webinology
 
 fields of interest
   [
-    PHP Development
-    Web Development
-    Linux Server Administration
-    DevOps
     ChatOps
+    DevOps
+    Linux Server Administration
+    macOS
+    PHP Development
+    Python
+    Web Development
   ]
 
-hobbies: ["Photography", "Writing"]
+hobbies: ["Photography", "Writing", "Light Gaming", Reading]
 
 ```
 
